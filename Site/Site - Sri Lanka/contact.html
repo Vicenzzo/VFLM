@@ -11,15 +11,6 @@
     </head>
     <body>
 
-    <?php
-        if (Isset($_GET["cod"]) == true) {
-            echo '<style>';
-            echo '  .message_warning {top: 400px;}';
-            echo '  .contact_formulary {height: 27vh;}';
-            echo '  ';
-            echo '</style>';
-        }
-    ?>
 
     <section class="main_section">
             <header class="main_header">
@@ -47,17 +38,7 @@
                 <input type="number" name="txtNumber" placeholder="Write your number phone.."><br/>
                 <span style="font-family: 'Dosis', sans-serif;">Aditional Message:</span><br/>
                 <textarea name="txtMessageAditional" rows="5" cols="50" placeholder="Write your aditional message.."></textarea><br/>
-                <?php
-                    if (Isset($_GET["cod"])) {
-                        if ($_GET["cod"] == 1) {
-                            echo "<span id='basicPlan'>Selected Plan: Basic Plan</span><br/>";
-                        } else if ($_GET["cod"] == 2) {
-                            echo "<span id='mediumPlan'>Selected Plan: Medium Plan</span><br/>";
-                        } else if ($_GET["cod"] == 3) {
-                            echo "<span id='premiumPlan'>Selected Plan: Premium Plan</span><br/>";
-                        }
-                    }
-                ?>
+               
                 <input type="submit" id="buttonSend" value="Send">
             </form>
         </section>
