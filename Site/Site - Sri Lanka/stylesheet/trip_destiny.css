@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.trip_destiny {
+    position: relative;
+    width: 100%;
+    height: 20vh;
+    background-color: #ffbe29;
+}
+
+/* Section TXT */
+
+.text_phrase_destiny {
+    position: absolute;
+    width: 100%;
+    top: 35%;
+    left: 600px;
+}
+
+.text_phrase_destiny p {
+    font-size: 40px;
+}

@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.section7{
+    padding-left: 15vh;
+    padding-right: 15vh;
+    padding-top: 10px;
+    background-image: linear-gradient(-20deg, #9e2233 0%, #881a12 100%);
+    height: 140vh;
+}
+
+.titulo7{
+    margin-left: 30%;
+}
+
+                 /* LISTA */
+.list-group{
+    margin-top: 4%;
+  margin-left: 25%;
+    width: 50%;
+}
+
+.list-group-item.active {
+    background-color: black;
+    border-color: black;
+}
+
+.classelista{
+    
+}
+.botao7{
+
+margin-bottom: -25px;
+}
+
+.preco{
+position: absolute;
+margin-left: 745px;
+}
+
+.lblpreco{
+    text-align: center;
+}
+
+/* FOOTER CABEÇARIO */
+
+footer{
+    background-color: black;
+ height: 8vh;
+ display: flex;
+padding-top:20px;
+padding-left: 10px;
+
+ align-items: center;
+ font-family: "Montserrat", sans-serif;
+     
+ }
+
+.textoF{
+    padding-left: 450px;
+     text-align: start;
+     color:  white;
+ }

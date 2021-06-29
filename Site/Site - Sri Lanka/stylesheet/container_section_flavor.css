@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.container_section_flavors {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: #d8915b;
+}
+
+/* Section IMG */
+
+.image_container_flavors img {
+    width: 80vw;
+    height: 100vh;
+}
+
+/* Section TXT */
+
+.text_container_flavors {
+    position: absolute;
+    right: 130;
+    top: 110;
+}
+
+.text_container_flavors p {
+    font-size: 100px;
+    color: #e5d4c8;
+}

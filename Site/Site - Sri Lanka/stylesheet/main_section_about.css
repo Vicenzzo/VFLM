@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.main_section {
+    position: relative;
+    width: 100vw;
+    height: 8vh;
+    background-color: #8DC9DA;
+}
+
+/* Header */
+
+.main_header {
+    position: absolute;
+    width: 100vw;
+    height: 5vh;
+    background-color: #C3E7F1;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0 1px 8px -2px black;
+}
+
+/* Nav */
+
+.navigation_buttons {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+}
+
+.navigation_buttons ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navigation_buttons li {
+    list-style: none;
+}
+
+/* Logo Phrase */
+
+.logo_phrase {
+    position: absolute;
+    width: 100%;
+    top: 70%;
+    text-align: center;
+}
+
+

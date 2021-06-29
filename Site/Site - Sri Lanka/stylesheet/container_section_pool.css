@@ -1,0 +1,29 @@
+/* Section */
+
+.container_section_pool {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: #057ac7;
+}
+
+/* Section IMG */
+
+.image_container_pool img {
+    width: 80vw;
+    height: 100vh;
+}
+
+/* Section TXT */
+
+.text_container_pool {
+    position: absolute;
+    right: 120;
+    top: 290;
+    text-align: center;
+}
+
+.text_container_pool p {
+    font-size: 100px;
+    color: white;
+}

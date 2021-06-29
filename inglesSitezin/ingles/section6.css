@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+.section6{
+  padding-top: 100px;
+  height: 110vh;
+  background-image: url(img/section2.png);
+}
+
+/* TITULO ACIMA DOS CARDS */
+.titulo6{
+  position: absolute;
+  padding-top: 10px;
+  height: 70px;
+  width: 60vh;
+  margin-left: 35%;
+  background-image: linear-gradient(-20deg, #fc6076 0%, #c42015 100%);
+  border-left: 1px solid white;
+  border-width: 40px;
+  text-align: center;
+}
+
+
+.titulo6 h2{
+  padding: 5px 5px 5px 10px;
+color: white;
+}
+
+
+
+
+
+/* TITULO ACIMA FIM */
+
+
+
+
+
+
+
+
+
+
+
+/* CARTÃOZINHO */
+
+.container6{
+  margin-top: -10vh;
+margin-top: 170px;
+margin-left: 160px;
+width: 90%;
+
+}
+
+.card{
+  
+  height: auto;
+  width: 30vh;
+  text-align: center;
+
+}
+
+
+.card-body{
+  background-color: white;
+  color: black;
+}
+
+
+.card-body a{
+  text-decoration: none;
+  color: white;
+}
+
+.col{
+   
+  padding-top: 15px;
+  padding-left: 10px; 
+  padding-right: 10px; 
+  padding-bottom: 12px;
+  display: inline-block;
+
+}
+
+.card h3{
+  color: white;
+background-color: black;
+font-size: 22px;
+}
+.card h3:hover{
+  box-shadow: 2px 2px black;
+  background-image: linear-gradient(-20deg, #fc6076 0%, #c42015 100%);
+}
+/* CARTÃOZINHO  FIM*/

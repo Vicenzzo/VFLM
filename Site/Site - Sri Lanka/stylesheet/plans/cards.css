@@ -1,0 +1,66 @@
+.cards_plans {
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: space-evenly;
+    top: 20;
+    background-color: #C3E7F1;
+}
+
+.card {
+    position: relative;
+    width: 18%;
+    height: 85vh;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-image: url('https://images.freeimages.com/images/large-previews/628/blurry-background-6000-x6000-1641566.jpg');
+    background-size: cover;
+    top: 15;
+}
+
+.card img {
+    width: 100%;
+    height: 20vh;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 5px;
+}
+
+.card h1 {
+    margin-bottom: 5px;
+    font-family: 'Viaoda Libre', cursive;
+    text-align: center;
+    color: white;
+}
+
+.card p {
+    font-family: 'Questrial', sans-serif;
+    margin-left: 8px; margin-right: 5px; margin-top: 5px;
+    color: white;
+}
+
+.card button {
+    position: absolute;
+    width: 100%;
+    height: 5vh;
+    background-color: black;
+    color: white;
+    border-radius: 0px 0px 16px 16px;
+    padding: 0;
+    border: none;
+    left: 0;
+    bottom: 0;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.card h2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    border-radius: 40px;
+    background-color: #708FA3;
+    color: white;
+}

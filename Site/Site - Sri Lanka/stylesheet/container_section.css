@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.container_section_fun {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: #162856;
+}
+
+/* Section IMG */
+
+.image_container img {
+    width: 80vw;
+    height: 100vh;
+}
+
+/* Section TXT */
+
+.text_container {
+    position: absolute;
+    right: 130;
+    top: 200;
+    text-align: center;
+}
+
+.text_container p {
+    font-size: 100px;
+    color: yellow;
+}

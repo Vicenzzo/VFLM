@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.about_us {
+    position: relative;
+    width: 40%;
+    height: 15vh;
+    background-color: #C3E7F1;
+    left: 550;
+    top: 50;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Section TXT */
+
+.about_us p {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 15
+}

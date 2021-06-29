@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylesheet/main_section_about.css">
+        <link rel="stylesheet" href="stylesheet/main_footer_about.css">
+        <link rel="stylesheet" href="stylesheet/about_us.css">
+        <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Arapey:ital@1&display=swap" rel="stylesheet">
+        <title>Travel Land - About Us</title>
+    </head>
+    <body>
+        
+        <section class="main_section">
+            <header class="main_header">
+                <nav class="navigation_buttons" style="font-family: 'Dosis', sans-serif;">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="plans.php">Cruise Plans</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div class="logo_phrase">
+                <p style="font-family: 'Arapey', serif; font-size: 21px;">Time is precious and travelling is necessary</p>
+            </div>
+        </section>
+
+        <section class="about_us">
+            <p style="font-family: 'Dosis', sans-serif;">Travel Land does everything so that your trip will be forever imprinted on your memories. That's why we work so that all experiences are the best choice of your life, through our attention to each client offering travel packages that are just like him. It is 
+            this way of thinking that makes Travel Land stand out more and more among all travel agencies in Brazil. <br/> <br/> The social commitment, solidity and innovation 
+            provided notoriety and visibility among the public. Travel Land works with cruises full of activities for all types and tastes. 
+            Travel Land Marking your memories with our travels is our mission.</p>
+        </section>
+
+        <section class="section_footer">
+            <footer class="main_footer">
+                <p style="font-family: 'Dosis', sans-serif;">All your rights reserved (2021)</p>
+            </footer>
+        </section>
+
+    </body>
+</html>

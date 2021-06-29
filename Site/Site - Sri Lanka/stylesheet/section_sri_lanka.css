@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/* Section */
+
+.section_sri_lanka {
+    position: relative;
+    width: 100%;
+    height: 80vh;
+    background-color: #8d153a;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section_sri_lanka img {
+    width: 25%;
+}

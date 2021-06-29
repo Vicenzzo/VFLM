@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/* Section */
+
+.content_section_main {
+    position: relative;
+    width: 100%;
+    height: 92vh;
+}
+
+/* Section IMG */
+
+.content_section_main div {
+    position: absolute;
+    height: auto;
+}
+
+.content_section_main img {
+    width: 100%;
+    height: 92vh;
+}
+
+/* Text */
+
+#text_main_content {
+    position: absolute;
+    top: 55%;
+    left: 37.5%;
+}
+
+#text_main_content p {
+    font-size: 50px;
+    color: #C3E7F1;
+}
+
+/* Logo */
+
+#logo {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 580;
+    left: 780;
+    border-radius: 100%;
+    opacity: 75%;
+}
+
+li:hover {
+    color: white;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}

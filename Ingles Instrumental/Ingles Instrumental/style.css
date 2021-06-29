@@ -1,0 +1,73 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background-image: linear-gradient(to right,#457fca,#5691c8);
+    text-align: center;
+   padding: 20px;
+
+  }
+  nav {
+  
+      display: flex;
+  
+      justify-content: space-around;
+  
+      align-items: center;
+  
+      min-height: 8vh;
+  
+        background-image: linear-gradient(to right,#457fca,#5691c8);
+  
+    }
+  .logo{
+  
+      color: white    ;
+  
+      text-transform: uppercase;
+  
+      letter-spacing: 5px;
+  
+      font-size: 20px;
+  
+    }
+  
+    
+  
+  .nav-links{
+  
+      display: flex;
+  
+      justify-content: space-around;
+  
+      width: 50%;
+  
+    }
+  
+    
+  
+  .nav-links li {
+  
+      list-style: none;
+  
+    }
+  
+    
+  
+  .nav-links a {
+  
+      color: white;
+  
+      text-decoration: none;
+  
+      font-weight: bold;
+  
+      font-size: 20px;
+  
+    }
+.central{
+  display: flex;
+}

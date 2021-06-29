@@ -1,0 +1,262 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylesheet/main_section.css">
+        <link rel="stylesheet" href="stylesheet/content_section_main.css">
+        <link rel="stylesheet" href="stylesheet/content_section_info.css">
+        <link rel="stylesheet" href="stylesheet/content_section_info_cards.css">
+        <link rel="stylesheet" href="stylesheet/container_section.css">
+        <link rel="stylesheet" href="stylesheet/container_section_lazer.css">
+        <link rel="stylesheet" href="stylesheet/container_section_pool.css">
+        <link rel="stylesheet" href="stylesheet/container_section_luck.css">
+        <link rel="stylesheet" href="stylesheet/container_section_flavor.css">
+        <link rel="stylesheet" href="stylesheet/trip_destiny.css">
+        <link rel="stylesheet" href="stylesheet/section_sri_lanka.css">
+        <link rel="stylesheet" href="stylesheet/section_country_info.css">
+        <link rel="stylesheet" href="stylesheet/section_contry_info_two.css">
+        <link rel="stylesheet" href="stylesheet/section_gastronomy_country.css">
+        <link rel="stylesheet" href="stylesheet/gastronomy_photos.css">
+        <link rel="stylesheet" href="stylesheet/see_you_later.css">
+        <link rel="stylesheet" href="stylesheet/main_footer.css">
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Jomhuria&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Arapey:ital@1&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Londrina+Shadow&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
+        <title>Travel Land - Sri Lanka</title>
+    </head>
+    <body>
+
+        <div class="to_up_page">
+            <a href="#topPage" id="buttonTop"><img src="img/up_arrow.png"></a>
+        </div>
+
+        <section class="main_section" id="topPage">
+            <header class="main_header">
+                <nav class="navigation_buttons">
+                    <ul style="font-family: 'Dosis', sans-serif;">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#info">Cruise</a></li>
+                        <li><a href="#sriLanka">Sri Lanka</a></li>
+                        <li><a href="plans.php">Cruise Plans</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div class="logo_phrase">
+                <p style="font-family: 'Arapey', serif; font-size: 21px;">Time is precious and travelling is necessary</p>
+            </div>
+        </section>
+
+        <section class="content_section_main">
+            <div>
+                <img src="img/photo_main_section.png">
+            </div>
+            <div id="text_main_content">
+                <p style="font-family: 'Jomhuria', cursive; font-size: 78px;">Your next trip is here!</p>
+            </div>
+            <a href="index.php"><img src="img/logo.png" id="logo"></a>
+        </section>
+
+        <section class="content_section_info" id="info">
+            <div id="image_content">
+                <img src="img/photo_info_cruiser.jpg">
+            </div>
+            <div id="text_content">
+                <p style="font-family: 'Dosis', sans-serif;">Prepare to board with your family in an adventure! With our cruise plan, your family will be included in a lot of activities, according to the age 
+                    of each one. <br/><br/> You'll enjoy a beautiful sunny day in pool while your children will be entertained with another actives in the cruise. 
+                    With our monitoring system, your children will be safe in any location of the cruise.</p>
+            </div>
+        </section>
+
+        <section class="content_section_info_cards">
+            <div class="card_line_one">
+                <div class="photo_card">
+                    <img src="img/Piscina.png">
+                </div>
+                <div class="text_card">
+                    <p>Big pools, to enjoy <br/> with your family.</p>
+                </div>
+            </div>
+            <div class="card_line_one">
+                <div class="photo_card">
+                    <img src="img/Fliperama.png">
+                </div>
+                <div class="text_card">
+                    <p>Arcades, for your children <br/> to feel at home.</p>
+                </div>
+            </div>
+            <div class="card_line_one">
+                <div class="photo_card">
+                    <img src="img/Fotografia.png">
+                </div>
+                <div class="text_card">
+                    <p>Photographers, to eternalize <br/> your moments.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="content_section_info_cards">
+            <div class="card_line_one">
+                <div class="photo_card">
+                    <img src="img/Cassino.png">
+                </div>
+                <div class="text_card">
+                    <p>Casino, to test your luck.</p>
+                </div>
+            </div>
+            <div class="card_line_one">
+                <div class="photo_card">
+                    <img src="img/Quarto.png">
+                </div>
+                <div class="text_card">
+                    <p>Comfortable rooms, to replenish <br/> your energy.</p>
+                </div>
+            </div>
+            <div class="card_line_one">
+                <div class="photo_card">
+                    <img src="img/Balada.png">
+                </div>
+                <div class="text_card">
+                    <p>Party, to shake the <br/> skeleton.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container_section_fun">
+            <div class="image_container">
+                <img src="img/arcade_photo.png">
+            </div>
+            <div class="text_container">
+                <p style="font-family: 'Press Start 2P', cursive;">G <br/>
+                   A <br/>
+                   M <br/>
+                   E <br/>
+                   S </p>
+            </div>
+        </section>
+
+        <section class="container_section_lazer">
+            <div class="image_container_lazer">
+                <img src="img/lazer_photo.png">
+            </div>
+            <div class="text_container_lazer">
+                <p>L <br/>
+                   E <br/>
+                   I <br/>
+                   S <br/>
+                   U <br/>
+                   R <br/>
+                   E </p>
+            </div>
+        </section>
+
+        <section class="container_section_pool">
+            <div class="image_container_pool">
+                <img src="img/pool_photo.png">
+            </div>
+            <div class="text_container_pool">
+                <p style= "font-family: 'Lobster', cursive;">F <br/>
+                   U <br/>
+                   N </p>
+            </div>
+        </section>
+
+        <section class="container_section_luck">
+            <div class="image_container_luck">
+                <img src="img/cassino_photo.png">
+            </div>
+            <div class="text_container_luck">
+                <p style="font-family: 'Staatliches', cursive;">L </br>
+                   U </br>
+                   C </br>
+                   K </p>
+            </div>
+        </section>
+
+        <section class="container_section_flavors">
+            <div class="image_container_flavors">
+                <img src="img/restaurant_photo.png">
+            </div>
+            <div class="text_container_flavors">
+                <p style="font-family: 'Gilda Display', serif;">F </br>
+                   L </br>
+                   A </br>
+                   V </br>
+                   O </br>
+                   R </p>
+            </div>
+        </section>
+
+        <section class="trip_destiny" id="sriLanka">
+            <div class="text_phrase_destiny">
+                <p style="font-family: 'Dosis', sans-serif;">And the destination of this trip: Sri Lanka</p>
+            </div>          
+        </section>
+
+        <section class="section_sri_lanka">
+            <img src="img/Sri Lanka/1.jpg">
+            <img src="img/Sri Lanka/2.jpg">
+            <img src="img/Sri Lanka/3.jpg">
+            <img src="img/Sri Lanka/4.jpg">
+            <img src="img/Sri Lanka/5.jpg">
+            <img src="img/Sri Lanka/6.jpg">
+            <img src="img/Sri Lanka/7.jpg">
+            <img src="img/Sri Lanka/8.jpg">
+        </section>
+
+        <section class="section_country_info">
+            <img src="img/Sri_Lanka_Flag.png">
+            <div class="text_country_info">
+                <p style="font-family: 'Dosis', sans-serif;">Sri Lanka was named the best tourist destination to travel in 2019 by Lonely Planet. It is a country of idyllic landscapes and low prices, which little 
+                    by little is conquering tourist lists around the world.</p>
+            </div>
+        </section>
+
+        <section class="section_country_info_two">
+            <img src="img/praia_photo.jpg">
+            <div class="text_country_info_two">
+                <p style="font-family: 'Dosis', sans-serif;">We could define Sri Lanka as an island surrounded by pristine beaches of fine golden sand. Palm trees and coconut palms on the coast complete the scene, 
+                which is also full of green mountains inland.</p>
+            </div>
+        </section>
+
+        <section class="section_gastronomy_country">
+            <img src="img/gastronomy_photo.jpg">
+            <div class="text_country_gastronomy">
+                <p style="font-family: 'Dosis', sans-serif;">Considering that Sri Lanka is an island made up basically of coconut trees and tea plantations, they struggle a lot when it comes to cooking. 
+                Although it's far from being a famous culinary destination, it's possible to delight in the distinctive — and possibly spicy — flavors of local food.</p>
+            </div>
+        </section>
+
+        <section class="gastronomy_photos">
+            <img src="img/Sri Lanka/food1.jpg">
+            <img src="img/Sri Lanka/food2.jpg">
+            <img src="img/Sri Lanka/food3.jpg">
+            <img src="img/Sri Lanka/food4.jpg">
+            <img src="img/Sri Lanka/food5.jpg">
+            <img src="img/Sri Lanka/food6.jpg">
+            <img src="img/Sri Lanka/food7.jpg">
+            <img src="img/Sri Lanka/food8.jpg">
+        </section>
+
+        <section class="see_you_later">
+            <p class="last_phrase" style="font-family: 'Dosis', sans-serif;">We'll be waiting for you!</p>
+        </section>
+
+        <section class="section_footer">
+            <footer class="main_footer" style="font-family: 'Dosis', sans-serif;">
+                <p>&copyAll your rights reserved (2021)</p>
+            </footer>
+        </section>
+
+    </body>
+</html>

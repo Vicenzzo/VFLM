@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.contact_formulary {
+    position: relative;
+    left: 680px;
+    top: 50px;
+    width: 500px;
+    height: 25vh;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+/* Section Button */
+
+#buttonSend {
+    margin-top: 5px;
+}
+
+/* Message Warning */
+
+.message_warning {
+    position: absolute;
+    width: 250px;
+    height: 12vh;
+    background-color: #D46A6A;
+    top: 380px;
+    left: 800px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.message_warning p {
+    text-align: center;
+}
+
+li:hover {
+    color: white;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}

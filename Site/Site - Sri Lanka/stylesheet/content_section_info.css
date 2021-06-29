@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section */
+
+.content_section_info {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    background-color: #266E5E; 
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Section IMG */
+
+#image_content img {
+    position: absolute;
+    width: 30%;
+    height: 80%;
+    border-radius: 10%;
+    right: 400;
+    top: 40;
+}
+
+/* Section TXT */
+
+#text_content {
+    position: absolute;
+    width: 20%;
+    right: 1000;
+    top: 60;
+}
+
+#text_content p{
+    font-size: 24px;
+}
